@@ -1,4 +1,4 @@
-getmosey.net
+GetMosey.com
 ========
 
 Website for [Mosey](https://www.getmosey.com/). All things sleep apnea.
