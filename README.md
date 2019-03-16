@@ -17,6 +17,7 @@ bundle exec jekyll serve
 ```
 
 More detailed instructions available at the [GitHub Pages documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
+<<<<<<< HEAD
 
 ### Videos
 
@@ -237,3 +238,5 @@ La «preuve d'espace» ne doit pas être confondue avec le stockage. [...]
 ```
 
 To ensure this FAQ entry is available in all languages, make sure you have one `./collections/_faq/p01-04-what-is-proof-of-space.<LANGUAGE_CODE>.md` translated file for every `<LANGUAGE_CODE>`.
+=======
+>>>>>>> 0296cd25e3dbb77de0f286d6cdebb514bf2c5ded
