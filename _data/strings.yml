@@ -6,29 +6,29 @@ en: # English
   homepage_section_1_heading: "useful"
   homepage_section_1_title: "Your money, how and where you want it"
   homepage_section_1_description: |
-    Chia&apos;s targeted functionality does everything you can do with a bank account &mdash; but better, and without the bank. Transactions are easy, secure, and smart.
+    Mosey&apos;s targeted functionality does everything you can do with a bank account &mdash; but better, and without the bank. Transactions are easy, secure, and smart.
   homepage_section_2_heading: "sustainable"
   homepage_section_2_title: "Digital money doesn&apos;t have to be wasteful"
   homepage_section_2_description: |
-    Traditional cryptocurrency mining is slow, wasteful, and centralized. Chia&apos;s method is energy efficient and broadly distributed, because even digital money should be green.
+    Traditional cryptocurrency mining is slow, wasteful, and centralized. Mosey&apos;s method is energy efficient and broadly distributed, because even digital money should be green.
   homepage_section_3_heading: "accessible"
   homepage_section_3_title: "Currency that&apos;s compatible for both professional and personal needs"
   homepage_section_3_description: |
     Now, even multinational businesses can join our new financial world without fear of volatility or vulnerability.
   homepage_blog_title: "The Latest"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "The Chia Community"
-  homepage_about_title: "About Chia"
+  homepage_community_title: "The Mosey Community"
+  homepage_about_title: "About Mosey"
   homepage_about_description: |
-    Chia Network is a decentralized open source global blockchain which is less wasteful, more decentralized, and more secure than Bitcoin. It is inspired and similar to the Bitcoin blockchain, but in Chia, the resource is not computing power, but disk space. To achieve this, the “proofs of work” used in Bitcoin are replaced by “proofs of space”, so disk-space becomes the main resource and proofs of time to come to a decentralized “Nakamoto-style” consensus that validates transactions.
+    Mosey Network is a decentralized open source global blockchain which is less wasteful, more decentralized, and more secure than Bitcoin. It is inspired and similar to the Bitcoin blockchain, but in Mosey, the resource is not computing power, but disk space. To achieve this, the “proofs of work” used in Bitcoin are replaced by “proofs of space”, so disk-space becomes the main resource and proofs of time to come to a decentralized “Nakamoto-style” consensus that validates transactions.
   homepage_investors: "Our investors"
   homepage_hiring_title: "We&apos;re Hiring!"
   homepage_hiring_description: |
     We're looking to hire several technically gifted programmers to work with our team of cryptographers on building our protocol. Must have strong algorithms skills. Cryptography experience is a plus but not required. Remote is okay but being in San Francisco is a plus. To apply please complete a couple of LeetCode Contests and send a link to your LeetCode profile in your Cover Letter and your resume to [indeed](https://www.indeed.com/job/software-engineer-611bfd12ad7b9e4d).
   homepage_hiring_apply: "Apply now"
-  about_title: "About Chia"
+  about_title: "About Mosey"
   about_description: |
-    Chia Network is a decentralized open source global blockchain which is less wasteful, more decentralized, and more secure than Bitcoin. It is inspired and similar to the Bitcoin blockchain, but in Chia, the resource is not computing power, but disk space. To achieve this, the “proofs of work” used in Bitcoin are replaced by “proofs of space”, so disk-space becomes the main resource and proofs of time to come to a decentralized “Nakamoto-style” consensus that validates transactions.
+    Mosey Network is a decentralized open source global blockchain which is less wasteful, more decentralized, and more secure than Bitcoin. It is inspired and similar to the Bitcoin blockchain, but in Mosey, the resource is not computing power, but disk space. To achieve this, the “proofs of work” used in Bitcoin are replaced by “proofs of space”, so disk-space becomes the main resource and proofs of time to come to a decentralized “Nakamoto-style” consensus that validates transactions.
   about_leadership_title: "Leadership Team"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
@@ -37,22 +37,22 @@ en: # English
     We're looking to hire several technically gifted programmers to work with our team of cryptographers on building our protocol. Must have strong algorithms skills. Cryptography experience is a plus but not required. Remote is okay but being in San Francisco is a plus. To apply please complete a couple LeetCode Contests and send a link to your LeetCode profile in your Cover Letter and your resume to [indeed](https://www.indeed.com/job/software-engineer-611bfd12ad7b9e4d).
   about_press_title: "Press"
   about_press_description: |
-    For press inquiries, please reach out to [hello@chia.net](mailto:hello@chia.net).
+    For press inquiries, please reach out to [alexandrashadle@gmail.com](mailto:alexandrashadle@gmail.com).
   footer_language: "Language"
   footer_contact: "Contact"
   footer_find_us: "Find Us"
   # footer_disclaimer: |
   #  By contributing to this repository, you agree to license your work under the MIT license unless specified otherwise in contrib/debian/copyright or at the top of the file itself. Any work contributed where you are not the original author must contain its license header with the original author(s) and source.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey 2019"
   navigation_faq: "FAQ"
   navigation_news: "News"
   navigation_blog: "Blog"
   navigation_community: "Community"
   navigation_about: "About"
   navigation_hiring: "We're Hiring"
-  community_email_title: "Chia in your inbox."
+  community_email_title: "Mosey in your inbox."
   community_email_description: |
-    Subscribe to our mailing list to get the latest Chia news delivered to your inbox.
+    Subscribe to our mailing list to get the latest Mosey news delivered to your inbox.
   community_signup: "Sign up"
   community_expand_details: "Expand to see full details"
   community_collapse_details: "Collapse full details"
@@ -65,51 +65,51 @@ fr: # French
   homepage_section_1_heading: "utile"
   homepage_section_1_title: "Votre argent, comment et où vous le voulez"
   homepage_section_1_description: |
-    La fonctionnalité ciblée de Chia fait tout ce que vous pouvez faire avec un compte bancaire &mdash; mais mieux, et sans la banque. Les transactions sont faciles, sécurisées et intelligentes.
+    La fonctionnalité ciblée de Mosey fait tout ce que vous pouvez faire avec un compte bancaire &mdash; mais mieux, et sans la banque. Les transactions sont faciles, sécurisées et intelligentes.
   homepage_section_2_heading: "durable"
   homepage_section_2_title: "L'argent numérique ne doit pas être inutile"
   homepage_section_2_description: |
-    L'exploitation traditionnelle de la crypto-monnaie est lente, inutile et centralisée. La méthode de Chia est économe en énergie et largement répandue, car même la monnaie numérique devrait être verte.
+    L'exploitation traditionnelle de la crypto-monnaie est lente, inutile et centralisée. La méthode de Mosey est économe en énergie et largement répandue, car même la monnaie numérique devrait être verte.
   homepage_section_3_heading: "accessible"
   homepage_section_3_title: "Monnaie compatible avec les besoins professionnels et personnels"
   homepage_section_3_description: |
     Désormais, même les entreprises multinationales peuvent rejoindre notre nouveau monde financier sans craindre la volatilité ou la vulnérabilité.
   homepage_blog_title: "Les Dernières"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "La Communauté Chia"
-  homepage_about_title: "À propos de Chia"
+  homepage_community_title: "La Communauté Mosey"
+  homepage_about_title: "À propos de Mosey"
   homepage_about_description: |
-    Chia Network est une blockchain globale open source décentralisée qui génère moins de gaspillage, est plus décentralisée et plus sécurisée que Bitcoin. Elle est inspirée et semblable à la blockchain Bitcoin, mais en Chia, la ressource n’est pas de la puissance de calcul, mais de l’espace disque. Pour y parvenir, les «preuves de travail» utilisées dans Bitcoin sont remplacées par des «preuves d'espace», de sorte que l'espace disque devient la principale ressource et les preuves du temps nécessaire pour parvenir à un consensus décentralisé «à la Nakamoto» validant les transactions.
+    Mosey Network est une blockchain globale open source décentralisée qui génère moins de gaspillage, est plus décentralisée et plus sécurisée que Bitcoin. Elle est inspirée et semblable à la blockchain Bitcoin, mais en Mosey, la ressource n’est pas de la puissance de calcul, mais de l’espace disque. Pour y parvenir, les «preuves de travail» utilisées dans Bitcoin sont remplacées par des «preuves d'espace», de sorte que l'espace disque devient la principale ressource et les preuves du temps nécessaire pour parvenir à un consensus décentralisé «à la Nakamoto» validant les transactions.
   homepage_hiring_title: "Nous recrutons!"
   homepage_hiring_description: |
-    Nous cherchons à engager plusieurs programmeurs doués sur le plan technique pour travailler avec notre équipe de cryptographes à la construction de notre protocole. Doit avoir de fortes compétences en algorithmes. Expérience en cryptographie est un atout mais pas obligatoire. La télécommande est acceptable, mais être à San Francisco est un avantage. Pour postuler, veuillez participer à quelques concours LeetCode et envoyer un lien vers votre profil LeetCode dans votre lettre de motivation et votre CV [Indeed](https://www.indeedjobs.com/chia-network/_hl/en_US?cpref=JXWAtnzf3XW5aRnY2g_zouV7xMD8uRK8wx8CMVARBLk)
-  about_title: "À propos de Chia"
+    Nous cherchons à engager plusieurs programmeurs doués sur le plan technique pour travailler avec notre équipe de cryptographes à la construction de notre protocole. Doit avoir de fortes compétences en algorithmes. Expérience en cryptographie est un atout mais pas obligatoire. La télécommande est acceptable, mais être à San Francisco est un avantage. Pour postuler, veuillez participer à quelques concours LeetCode et envoyer un lien vers votre profil LeetCode dans votre lettre de motivation et votre CV [Indeed](https://www.indeedjobs.com/Mosey-network/_hl/en_US?cpref=JXWAtnzf3XW5aRnY2g_zouV7xMD8uRK8wx8CMVARBLk)
+  about_title: "À propos de Mosey"
   about_description: |
-    Chia est une monnaie utile, durable et accessible pour une nouvelle ère de monnaie numérique. Nous avons conçu un réseau de chaînes de blocs plus sécurisé, plus dispersé géographiquement et moins onéreux que les crypto-monnaies traditionnelles, ce qui le rend plus compatible pour les besoins personnels et professionnels. Chia a été fondée en 2017 à San Francisco par une équipe basée dans les secteurs de la monnaie numérique, de la cryptographie et de la finance, issue de BitTorrent, Tradehill, Changetip, Lightning Labs, l'Université de Stanford et l'Université de Columbia.
+    Mosey est une monnaie utile, durable et accessible pour une nouvelle ère de monnaie numérique. Nous avons conçu un réseau de chaînes de blocs plus sécurisé, plus dispersé géographiquement et moins onéreux que les crypto-monnaies traditionnelles, ce qui le rend plus compatible pour les besoins personnels et professionnels. Mosey a été fondée en 2017 à San Francisco par une équipe basée dans les secteurs de la monnaie numérique, de la cryptographie et de la finance, issue de BitTorrent, Tradehill, Changetip, Lightning Labs, l'Université de Stanford et l'Université de Columbia.
   about_leadership_title: "Équipe de direction"
   about_advisors_title: "Advisors"
   about_invest_investors_title: ""
   about_careers_title: "Carrières"
   about_careers_description: |
-    Nous cherchons à engager plusieurs programmeurs doués sur le plan technique pour travailler avec notre équipe de cryptographes à la construction de notre protocole. Doit avoir de fortes compétences en algorithmes. Expérience en cryptographie est un atout mais pas obligatoire. La télécommande est acceptable, mais être à San Francisco est un avantage. Pour postuler, veuillez participer à deux concours LeetCode et envoyer un lien vers votre profil LeetCode dans votre lettre de motivation et votre CV à l'adresse suivante [indeed](https://www.indeedjobs.com/chia-network/_hl/en_US?cpref=JXWAtnzf3XW5aRnY2g_zouV7xMD8uRK8wx8CMVARBLk).
+    Nous cherchons à engager plusieurs programmeurs doués sur le plan technique pour travailler avec notre équipe de cryptographes à la construction de notre protocole. Doit avoir de fortes compétences en algorithmes. Expérience en cryptographie est un atout mais pas obligatoire. La télécommande est acceptable, mais être à San Francisco est un avantage. Pour postuler, veuillez participer à deux concours LeetCode et envoyer un lien vers votre profil LeetCode dans votre lettre de motivation et votre CV à l'adresse suivante [indeed](https://www.indeedjobs.com/Mosey-network/_hl/en_US?cpref=JXWAtnzf3XW5aRnY2g_zouV7xMD8uRK8wx8CMVARBLk).
   about_press_title: "Presse"
   about_press_description: |
-    Pour les demandes de presse, veuillez vous adresser à [hello@chia.net](mailto:hello@chia.net).
+    Pour les demandes de presse, veuillez vous adresser à [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Langue"
   footer_contact: "Contact"
   footer_find_us: "Trouve Nous"
   # footer_disclaimer: |
   #  En contribuant à ce référentiel, vous acceptez de concéder une licence pour votre travail sous la licence MIT, sauf indication contraire dans contrib / debian / copyright ou en haut du fichier. Toute œuvre contribuée dont vous n'êtes pas l'auteur original doit contenir son en-tête de licence avec le ou les auteurs d'origine et la source.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "FAQ"
   navigation_news: "Nouvelles"
   navigation_blog: "Blog"
   navigation_community: "Communauté"
   navigation_about: "À propos"
   navigation_hiring: "Nous recrutons"
-  community_email_title: "Chia dans votre boîte de réception."
+  community_email_title: "Mosey dans votre boîte de réception."
   community_email_description: |
-    Inscrivez-vous à notre liste de diffusion pour recevoir les dernières nouvelles sur Chia dans votre boîte de réception.
+    Inscrivez-vous à notre liste de diffusion pour recevoir les dernières nouvelles sur Mosey dans votre boîte de réception.
   community_signup: "Inscrivez-vous"
   community_expand_details: "Développer pour voir tous les détails"
   community_collapse_details: "Réduire tous les détails"
@@ -122,11 +122,11 @@ cn: # Japanese
   homepage_section_1_heading: "有用"
   homepage_section_1_title: "あなたのお金、どのようにそしてあなたがそれを望むところ"
   homepage_section_1_description: |
-    Chiaのターゲットを絞った機能はあなたが銀行口座を使ってできることすべてをします - しかし、より良く、そして銀行なしで。トランザクションは簡単、安全、そしてスマートです。
+    Moseyのターゲットを絞った機能はあなたが銀行口座を使ってできることすべてをします - しかし、より良く、そして銀行なしで。トランザクションは簡単、安全、そしてスマートです。
   homepage_section_2_heading: "持続可能"
   homepage_section_2_title: "デジタルマネーは無駄である必要はありません"
   homepage_section_2_description: |
-    従来の暗号通貨マイニングは、時間がかかり、無駄が多く、集中型です。 Chiaの方法はエネルギー効率が良く、広く配布されています。デジタルマネーでさえ環境に優しいはずだからです。
+    従来の暗号通貨マイニングは、時間がかかり、無駄が多く、集中型です。 Moseyの方法はエネルギー効率が良く、広く配布されています。デジタルマネーでさえ環境に優しいはずだからです。
   homepage_section_3_heading: "无障碍"
   homepage_section_3_title: "符合专业和个人需求的货币"
   homepage_section_3_description: |
@@ -136,7 +136,7 @@ cn: # Japanese
   homepage_community_title: "チアコミュニティ"
   homepage_about_title: "チアについて"
   homepage_about_description: |
-    Chia Networkは、Bitcoinよりも無駄が少なく、より分散化され、安全性の高い、分散型オープンソースグローバルブロックチェーンです。それはインスピレーションを得たもので、Bitcoinブロックチェーンに似ていますが、Chiaでは、リソースはコンピューティング能力ではなくディスク容量です。これを実現するために、Bitcoinで使用されている「作業の証明」が「スペースの証明」に置き換えられ、ディスクスペースが主なリソースとなり、トランザクションを検証する分散型の「ナカモトスタイル」の合意が得られます。
+    Mosey Networkは、Bitcoinよりも無駄が少なく、より分散化され、安全性の高い、分散型オープンソースグローバルブロックチェーンです。それはインスピレーションを得たもので、Bitcoinブロックチェーンに似ていますが、Moseyでは、リソースはコンピューティング能力ではなくディスク容量です。これを実現するために、Bitcoinで使用されている「作業の証明」が「スペースの証明」に置き換えられ、ディスクスペースが主なリソースとなり、トランザクションを検証する分散型の「ナカモトスタイル」の合意が得られます。
   homepage_investors: "私たちの投資家"
   homepage_hiring_title: "私たちは雇っています!"
   homepage_hiring_description: |
@@ -144,7 +144,7 @@ cn: # Japanese
   homepage_hiring_apply: "今すぐ申し込む"
   about_title: "チアについて"
   about_description: |
-    Chia Networkは、Bitcoinよりも無駄が少なく、より分散化され、安全性の高い、分散型オープンソースグローバルブロックチェーンです。それはインスピレーションを得たもので、Bitcoinブロックチェーンに似ていますが、Chiaでは、リソースはコンピューティング能力ではなくディスク容量です。これを実現するために、Bitcoinで使用されている「作業の証明」が「スペースの証明」に置き換えられ、ディスクスペースが主なリソースとなり、トランザクションを検証する分散型の「ナカモトスタイル」の合意が得られます。
+    Mosey Networkは、Bitcoinよりも無駄が少なく、より分散化され、安全性の高い、分散型オープンソースグローバルブロックチェーンです。それはインスピレーションを得たもので、Bitcoinブロックチェーンに似ていますが、Moseyでは、リソースはコンピューティング能力ではなくディスク容量です。これを実現するために、Bitcoinで使用されている「作業の証明」が「スペースの証明」に置き換えられ、ディスクスペースが主なリソースとなり、トランザクションを検証する分散型の「ナカモトスタイル」の合意が得られます。
   about_leadership_title: "首脳部"
   about_advisors_title: "顧問"
   about_invest_investors_title: "投資家"
@@ -153,7 +153,7 @@ cn: # Japanese
     私達は私達の暗号化技術者のチームと協力して私達のプロトコルを構築するために何人かの技術的に才能のあるプログラマーを雇おうとしています。強力なアルゴリズムスキルが必要です。暗号化の経験はプラスですが必須ではありません。リモートは大丈夫ですが、サンフランシスコにいることはプラスです。応募するには、いくつかのLeetCodeコンテストを完了し、Cover LetterのLeetCodeプロファイルへのリンクと履歴書を[https://www.indeed.com/job/software-engineer-611bfd12ad7b9e4d]に送ってください。
   about_press_title: "押す"
   about_press_description: |
-    報道に関するお問い合わせは[hello@chia.net]（mailto：hello@chia.net）までお願いします。
+    報道に関するお問い合わせは[hello@Mosey.net]（mailto：hello@Mosey.net）までお願いします。
   footer_language: "言語"
   footer_contact: "接触"
   footer_find_us: "私達を見つけなさい"
@@ -168,7 +168,7 @@ cn: # Japanese
   navigation_hiring: "私たちは雇っています"
   community_email_title: "受信トレイにチア。"
   community_email_description: |
-    最新のChiaニュースを受信トレイに配信するには、メーリングリストに登録してください。
+    最新のMoseyニュースを受信トレイに配信するには、メーリングリストに登録してください。
   community_signup: "サインアップ"
   community_expand_details: "詳細を見る"
   community_collapse_details: "詳細を見るために折りたたむ"
@@ -181,19 +181,19 @@ nl: # Dutch
   homepage_section_1_heading: "nuttig"
   homepage_section_1_title: "Uw geld, hoe en waar u het wilt"
   homepage_section_1_description: |
-    De gerichte functionaliteit van Chia doet alles wat u kunt doen met een bankrekening, maar beter, en zonder de bank. Transacties zijn eenvoudig, veilig en slim.
+    De gerichte functionaliteit van Mosey doet alles wat u kunt doen met een bankrekening, maar beter, en zonder de bank. Transacties zijn eenvoudig, veilig en slim.
   homepage_section_2_heading: "duurzame"
   homepage_section_2_title: "Digitaal geld hoeft niet verspillend te zijn"
   homepage_section_2_description: |
-    Traditionele cryptocurrency-mijnbouw is traag, verkwistend en gecentraliseerd. De methode van Chia is energie-efficiënt en breed verdeeld, omdat zelfs digitaal geld groen moet zijn.
+    Traditionele cryptocurrency-mijnbouw is traag, verkwistend en gecentraliseerd. De methode van Mosey is energie-efficiënt en breed verdeeld, omdat zelfs digitaal geld groen moet zijn.
   homepage_section_3_heading: "beschikbaar"
   homepage_section_3_title: "Valuta die compatibel is voor zowel professionele als persoonlijke behoeften"
   homepage_section_3_description: |
     Nu kunnen zelfs multinationals deelnemen aan onze nieuwe financiële wereld zonder bang te hoeven zijn voor volatiliteit of kwetsbaarheid.
   homepage_blog_title: "De laatste"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "De Chia-gemeenschap"
-  homepage_about_title: "Over Chia"
+  homepage_community_title: "De Mosey-gemeenschap"
+  homepage_about_title: "Over Mosey"
   homepage_about_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimus veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea commodo consequat.
   homepage_investors: "Onze investeerders"
@@ -201,33 +201,33 @@ nl: # Dutch
   homepage_hiring_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   homepage_hiring_apply: "Nu toepassen"
-  about_title: "Over Chia"
+  about_title: "Over Mosey"
   about_description: |
-    Chia is nuttige, duurzame en toegankelijke valuta voor een nieuw tijdperk van digitaal geld. We hebben een blockchain-netwerk ontworpen dat veiliger is, meer geografisch verspreid en minder verkwistend dan traditionele cryptocurrencies, waardoor het meer compatibel is voor zowel persoonlijke als professionele behoeften. Chia werd in 2017 in San Francisco opgericht door een team dat is geworteld in digitale geld-, cryptografie- en financiële sectoren, afkomstig van BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford University en Columbia University.
+    Mosey is nuttige, duurzame en toegankelijke valuta voor een nieuw tijdperk van digitaal geld. We hebben een blockchain-netwerk ontworpen dat veiliger is, meer geografisch verspreid en minder verkwistend dan traditionele cryptocurrencies, waardoor het meer compatibel is voor zowel persoonlijke als professionele behoeften. Mosey werd in 2017 in San Francisco opgericht door een team dat is geworteld in digitale geld-, cryptografie- en financiële sectoren, afkomstig van BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford University en Columbia University.
   about_leadership_title: "Leiderschaps team"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
   about_careers_title: "Careers"
   about_careers_description: |
-    We zijn altijd op zoek naar getalenteerde programmeurs om ons protocol te helpen bouwen. Als je geïnteresseerd bent, voltooi dan eerst een paar LeetCode-wedstrijden. Stuur vervolgens uw LeetCode-profiellink en uw cv naar [jobs@chia.net] (mailto: jobs@chia.net).
+    We zijn altijd op zoek naar getalenteerde programmeurs om ons protocol te helpen bouwen. Als je geïnteresseerd bent, voltooi dan eerst een paar LeetCode-wedstrijden. Stuur vervolgens uw LeetCode-profiellink en uw cv naar [jobs@Mosey.net] (mailto: jobs@Mosey.net).
   about_press_title: "druk op"
   about_press_description: |
-    Neem voor vragen over de pers contact op met [hello@chia.net](mailto:hello@chia.net).
+    Neem voor vragen over de pers contact op met [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Taal"
   footer_contact: "Contact"
   footer_find_us: "Vind ons"
 #  footer_disclaimer: |
 #    Door bij te dragen aan deze repository, gaat u ermee akkoord om uw werk onder de MIT-licentie te licentiëren, tenzij anders vermeld in contrib / debian / copyright of bovenaan het bestand zelf. Elk werk dat wordt bijgedragen wanneer u niet de oorspronkelijke auteur bent, moet de licentiekop bevatten met de oorspronkelijke auteur (s) en bron.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "FAQ"
   navigation_news: "Nieuws"
   navigation_blog: "blog"
   navigation_community: "Gemeenschap"
   navigation_about: "Wat betreft"
   navigation_hiring: "We zijn aan het huren"
-  community_email_title: "Chia in je inbox."
+  community_email_title: "Mosey in je inbox."
   community_email_description: |
-    Abonneer je op onze mailinglijst om het laatste Chia-nieuws in je inbox te ontvangen.
+    Abonneer je op onze mailinglijst om het laatste Mosey-nieuws in je inbox te ontvangen.
   community_signup: "Inschrijven"
   community_expand_details: "Uitvouwen om alle details te zien"
   community_collapse_details: "Vul de volledige details in"
@@ -240,19 +240,19 @@ de: # German
   homepage_section_1_heading: "sinnvoll"
   homepage_section_1_title: "Dein Geld, wie und wo du es willst"
   homepage_section_1_description: |
-    Die von Chia anvisierte Funktionalität bietet alles, was Sie mit einem Bankkonto tun können - aber besser und ohne die Bank. Transaktionen sind einfach, sicher und intelligent.
+    Die von Mosey anvisierte Funktionalität bietet alles, was Sie mit einem Bankkonto tun können - aber besser und ohne die Bank. Transaktionen sind einfach, sicher und intelligent.
   homepage_section_2_heading: "nachhaltig"
   homepage_section_2_title: "Digitales Geld muss nicht verschwenderisch sein"
   homepage_section_2_description: |
-    Herkömmliches Kryptowährungs-Mining ist langsam, verschwenderisch und zentralisiert. Chias Methode ist energieeffizient und weit verbreitet, da selbst digitales Geld umweltfreundlich sein sollte.
+    Herkömmliches Kryptowährungs-Mining ist langsam, verschwenderisch und zentralisiert. Moseys Methode ist energieeffizient und weit verbreitet, da selbst digitales Geld umweltfreundlich sein sollte.
   homepage_section_3_heading: "zugänglich"
   homepage_section_3_title: "Eine Währung, die sowohl für berufliche als auch persönliche Bedürfnisse geeignet ist"
   homepage_section_3_description: |
     Jetzt können auch multinationale Unternehmen unserer neuen Finanzwelt beitreten, ohne Angst vor Volatilität oder Verwundbarkeit zu haben.
   homepage_blog_title: "Das Neueste"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "Die Chia-Gemeinschaft"
-  homepage_about_title: "Über Chia"
+  homepage_community_title: "Die Mosey-Gemeinschaft"
+  homepage_about_title: "Über Mosey"
   homepage_about_description: |
     Lorem ipsum dolor sitzen amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore und dolore magna aliqua. Ut enim ad minim veniy, quis nostrud ausüben ullamco laboris nisi ut aliquip aus einer Vielzahl von Fällen.
   homepage_investors: "Unsere Investoren"
@@ -260,18 +260,18 @@ de: # German
   homepage_hiring_description: |
     Lorem ipsum dolor sitzen amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore und dolore magna aliqua.
   homepage_hiring_apply: "Jetzt bewerben"
-  about_title: "Über Chia"
+  about_title: "Über Mosey"
   about_description: |
-    Chia ist eine nützliche, nachhaltige und zugängliche Währung für ein neues Zeitalter des digitalen Geldes. Wir haben ein Blockchain-Netzwerk entwickelt, das sicherer, geografisch verteilter und weniger verschwenderisch ist als herkömmliche Kryptowährungen, wodurch es sowohl für private als auch für berufliche Zwecke besser geeignet ist. Chia wurde 2017 in San Francisco von einem Team gegründet, das aus den Bereichen Digitales Geld, Kryptographie und Finanzen besteht und aus BitTorrent, Tradehill, Changetip, Lightning Labs, der Stanford University und der Columbia University stammt.
+    Mosey ist eine nützliche, nachhaltige und zugängliche Währung für ein neues Zeitalter des digitalen Geldes. Wir haben ein Blockchain-Netzwerk entwickelt, das sicherer, geografisch verteilter und weniger verschwenderisch ist als herkömmliche Kryptowährungen, wodurch es sowohl für private als auch für berufliche Zwecke besser geeignet ist. Mosey wurde 2017 in San Francisco von einem Team gegründet, das aus den Bereichen Digitales Geld, Kryptographie und Finanzen besteht und aus BitTorrent, Tradehill, Changetip, Lightning Labs, der Stanford University und der Columbia University stammt.
   about_leadership_title: "Führungsteam"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
   about_careers_title: "Karriere"
   about_careers_description: |
-    Wir sind immer auf der Suche nach talentierten Programmierern, die uns beim Aufbau unseres Protokolls unterstützen. Wenn Sie interessiert sind, schließen Sie zuerst einige LeetCode-Wettbewerbe ab. Senden Sie dann Ihren LeetCode-Profillink und Ihren Lebenslauf an [jobs@chia.net] (mailto: jobs@chia.net).
+    Wir sind immer auf der Suche nach talentierten Programmierern, die uns beim Aufbau unseres Protokolls unterstützen. Wenn Sie interessiert sind, schließen Sie zuerst einige LeetCode-Wettbewerbe ab. Senden Sie dann Ihren LeetCode-Profillink und Ihren Lebenslauf an [jobs@Mosey.net] (mailto: jobs@Mosey.net).
   about_press_title: "Drücken Sie"
   about_press_description: |
-    Für Presseanfragen wenden Sie sich bitte an [hello@chia.net](mailto:hello@chia.net).
+    Für Presseanfragen wenden Sie sich bitte an [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Sprache"
   footer_contact: "Kontakt"
   footer_find_us: "Finde uns"
@@ -283,9 +283,9 @@ de: # German
   navigation_community: "Gemeinschaft"
   navigation_about: "Über"
   navigation_hiring: "Wir stellen ein"
-  community_email_title: "Chia in Ihrem Posteingang."
+  community_email_title: "Mosey in Ihrem Posteingang."
   community_email_description: |
-    Abonnieren Sie unsere Mailing-Liste, um die neuesten Nachrichten von Chia in Ihrem Posteingang zu erhalten.
+    Abonnieren Sie unsere Mailing-Liste, um die neuesten Nachrichten von Mosey in Ihrem Posteingang zu erhalten.
   community_signup: "Anmelden"
   community_expand_details: "Erweitern Sie, um alle Details anzuzeigen"
   community_collapse_details: "Vollständige Details ausblenden"
@@ -298,19 +298,19 @@ es: # Spanish
   homepage_section_1_heading: "útil"
   homepage_section_1_title: "Tu dinero, como y donde lo quieras."
   homepage_section_1_description: |
-    La funcionalidad específica de Chia hace todo lo que puede hacer con una cuenta bancaria, pero mejor, y sin el banco. Las transacciones son fáciles, seguras e inteligentes.
+    La funcionalidad específica de Mosey hace todo lo que puede hacer con una cuenta bancaria, pero mejor, y sin el banco. Las transacciones son fáciles, seguras e inteligentes.
   homepage_section_2_heading: "sostenible"
   homepage_section_2_title: "El dinero digital no tiene por qué ser un desperdicio"
   homepage_section_2_description: |
-    La minería de criptomoneda tradicional es lenta, inútil y centralizada. El método de Chia es energéticamente eficiente y ampliamente distribuido, porque incluso el dinero digital debería ser verde.
+    La minería de criptomoneda tradicional es lenta, inútil y centralizada. El método de Mosey es energéticamente eficiente y ampliamente distribuido, porque incluso el dinero digital debería ser verde.
   homepage_section_3_heading: "accesible"
   homepage_section_3_title: "Moneda que es compatible tanto para necesidades profesionales como personales."
   homepage_section_3_description: |
     Ahora, incluso las empresas multinacionales pueden unirse a nuestro nuevo mundo financiero sin temor a la volatilidad o la vulnerabilidad.
   homepage_blog_title: "Lo último"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "La comunidad chia"
-  homepage_about_title: "Sobre chia"
+  homepage_community_title: "La comunidad Mosey"
+  homepage_about_title: "Sobre Mosey"
   homepage_about_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lo primero que se puede hacer es usarlo en la mano, pero si lo hacemos, no tenemos que recurrir a ninguna parte, sino también como resultado.
   homepage_investors: "Nuestros inversores"
@@ -318,33 +318,33 @@ es: # Spanish
   homepage_hiring_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   homepage_hiring_apply: "Aplica ya"
-  about_title: "Sobre chia"
+  about_title: "Sobre Mosey"
   about_description: |
-    Chia es una moneda útil, sostenible y accesible para una nueva era del dinero digital. Hemos diseñado una red de blockchain que es más segura, más dispersa geográficamente y con menos desperdicio que las criptomonedas tradicionales, por lo que es más compatible tanto para las necesidades personales como para las profesionales. Chia fue fundada en 2017 en San Francisco por un equipo arraigado en los sectores de dinero digital, criptografía y finanzas, provenientes de BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford University y Columbia University.
+    Mosey es una moneda útil, sostenible y accesible para una nueva era del dinero digital. Hemos diseñado una red de blockchain que es más segura, más dispersa geográficamente y con menos desperdicio que las criptomonedas tradicionales, por lo que es más compatible tanto para las necesidades personales como para las profesionales. Mosey fue fundada en 2017 en San Francisco por un equipo arraigado en los sectores de dinero digital, criptografía y finanzas, provenientes de BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford University y Columbia University.
   about_leadership_title: "Equipo de liderazgo"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
   about_careers_title: "Carreras profesionales"
   about_careers_description: |
-    Siempre estamos en la búsqueda de programadores talentosos para ayudar a construir nuestro protocolo. Si está interesado, primero complete un par de concursos de LeetCode. Luego envíe el enlace de su perfil LeetCode y su currículum vitae a [jobs@chia.net] (mailto: jobs@chia.net).
+    Siempre estamos en la búsqueda de programadores talentosos para ayudar a construir nuestro protocolo. Si está interesado, primero complete un par de concursos de LeetCode. Luego envíe el enlace de su perfil LeetCode y su currículum vitae a [jobs@Mosey.net] (mailto: jobs@Mosey.net).
   about_press_title: "prensa"
   about_press_description: |
-    Para consultas de prensa, comuníquese con [hello@chia.net](mailto:hello@chia.net).
+    Para consultas de prensa, comuníquese con [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Idioma"
   footer_contact: "Contacto"
   footer_find_us: "Encuéntranos"
 #  footer_disclaimer: |
 #    Al contribuir a este repositorio, usted acepta licenciar su trabajo bajo la licencia MIT a menos que se especifique lo contrario en contrib / debian / copyright o en la parte superior del archivo. Cualquier trabajo contribuido donde usted no es el autor original debe contener su encabezado de licencia con el autor original y la fuente.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "Preguntas más frecuentes"
   navigation_news: "Noticias"
   navigation_blog: "Blog"
   navigation_community: "Comunidad"
   navigation_about: "Acerca de"
   navigation_hiring: "Estamos contratando"
-  community_email_title: "Chia en tu bandeja de entrada."
+  community_email_title: "Mosey en tu bandeja de entrada."
   community_email_description: |
-    Suscríbase a nuestra lista de correo para recibir las últimas noticias de Chia en su bandeja de entrada.
+    Suscríbase a nuestra lista de correo para recibir las últimas noticias de Mosey en su bandeja de entrada.
   community_signup: "Regístrate"
   community_expand_details: "Expandir para ver los detalles completos"
   community_collapse_details: "Contraer todos los detalles"
@@ -388,13 +388,13 @@ sr: # Serbian
     Увек смо у потрази за талентованим програмерима који ће помоћи у изградњи нашег протокола. Ако сте заинтересовани, прво попуните неколико ЛеетЦоде такмичења. Затим пошаљите ваш линк за ЛеетЦоде профил и свој животопис на [јобс@цхиа.нет] (маилто: јобс@цхиа.нет).
   about_press_title: "Притисните"
   about_press_description: |
-    За новинске упите, обратите се на [hello@chia.net](mailto:hello@chia.net).
+    За новинске упите, обратите се на [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Језик"
   footer_contact: "Контакт"
   footer_find_us: "Пронађи нас"
 #  footer_disclaimer: |
 #    Доприносећи овом спремишту, слажете се да лиценцирате свој рад под МИТ лиценцом, осим ако је другачије наведено у доприносу / дебиан / цопиригхт или на врху саме датотеке. Било који рад који је допринио тамо где нисте изворни аутор мора да садржи заглавље лиценце са оригиналним ауторима и изворима.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "ФАК"
   navigation_news: "Невс"
   navigation_blog: "Блог"
@@ -416,19 +416,19 @@ pt: # Portuguese
   homepage_section_1_heading: "útil"
   homepage_section_1_title: "Seu dinheiro, como e onde você quer"
   homepage_section_1_description: |
-    A funcionalidade direcionada de Chia faz tudo o que você pode fazer com uma conta bancária - mas melhor e sem o banco. As transações são fáceis, seguras e inteligentes.
+    A funcionalidade direcionada de Mosey faz tudo o que você pode fazer com uma conta bancária - mas melhor e sem o banco. As transações são fáceis, seguras e inteligentes.
   homepage_section_2_heading: "sustentável"
   homepage_section_2_title: "Dinheiro digital não precisa ser um desperdício"
   homepage_section_2_description: |
-    A mineração de criptomoedas tradicional é lenta, perdulária e centralizada. O método de Chia é energeticamente eficiente e amplamente distribuído, porque até o dinheiro digital deveria ser verde.
+    A mineração de criptomoedas tradicional é lenta, perdulária e centralizada. O método de Mosey é energeticamente eficiente e amplamente distribuído, porque até o dinheiro digital deveria ser verde.
   homepage_section_3_heading: "acessível"
   homepage_section_3_title: "Moeda compatível com necessidades profissionais e pessoais"
   homepage_section_3_description: |
     Agora, até empresas multinacionais podem se juntar ao nosso novo mundo financeiro sem medo de volatilidade ou vulnerabilidade.
   homepage_blog_title: "O mais recente"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "A Comunidade Chia"
-  homepage_about_title: "Sobre Chia"
+  homepage_community_title: "A Comunidade Mosey"
+  homepage_about_title: "Sobre Mosey"
   homepage_about_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporary incididunt ut labore et dolore magna aliqua. Enim adim ad minimim veniam, quis nostrud exercise ullamco laboris nisi ut alipip ex ea commodo consequat.
   homepage_investors: "Nossos investidores"
@@ -436,33 +436,33 @@ pt: # Portuguese
   homepage_hiring_description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporary incididunt ut labore et dolore magna aliqua.
   homepage_hiring_apply: "Aplique agora"
-  about_title: "Sobre Chia"
+  about_title: "Sobre Mosey"
   about_description: |
-    A Chia é uma moeda útil, sustentável e acessível para uma nova era do dinheiro digital. Projetamos uma rede blockchain mais segura, geograficamente dispersa e com menos desperdício do que as criptomoedas tradicionais, tornando-a mais compatível para as necessidades pessoais e profissionais. A Chia foi fundada em 2017 em São Francisco por uma equipe com raízes nos setores de dinheiro digital, criptografia e finanças, vinda da BitTorrent, Tradehill, Changetip, Lightning Labs, Universidade de Stanford e Universidade de Columbia.
+    A Mosey é uma moeda útil, sustentável e acessível para uma nova era do dinheiro digital. Projetamos uma rede blockchain mais segura, geograficamente dispersa e com menos desperdício do que as criptomoedas tradicionais, tornando-a mais compatível para as necessidades pessoais e profissionais. A Mosey foi fundada em 2017 em São Francisco por uma equipe com raízes nos setores de dinheiro digital, criptografia e finanças, vinda da BitTorrent, Tradehill, Changetip, Lightning Labs, Universidade de Stanford e Universidade de Columbia.
   about_leadership_title: "Equipe de liderança"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
   about_careers_title: "Carreiras"
   about_careers_description: |
-    Estamos sempre à procura de programadores talentosos para ajudar a criar nosso protocolo. Se você estiver interessado, primeiro conclua alguns Concursos LeetCode. Em seguida, envie seu link de perfil do LeetCode e seu currículo para [jobs@chia.net] (mailto: jobs@chia.net).
+    Estamos sempre à procura de programadores talentosos para ajudar a criar nosso protocolo. Se você estiver interessado, primeiro conclua alguns Concursos LeetCode. Em seguida, envie seu link de perfil do LeetCode e seu currículo para [jobs@Mosey.net] (mailto: jobs@Mosey.net).
   about_press_title: "pressione"
   about_press_description: |
-    Para informações sobre a imprensa, entre em contato com [hello@chia.net](mailto:hello@chia.net).
+    Para informações sobre a imprensa, entre em contato com [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Língua"
   footer_contact: "Contato"
   footer_find_us: "Ache-nos"
 #  footer_disclaimer: |
 #    Ao contribuir para este repositório, você concorda em licenciar seu trabalho sob a licença MIT, a menos que especificado de outra forma em contrib / debian / copyright ou no topo do arquivo em si. Qualquer trabalho contribuído onde você não é o autor original deve conter seu cabeçalho de licença com o (s) autor (es) e fonte originais.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "Perguntas frequentes"
   navigation_news: "Notícia"
   navigation_blog: "Blog"
   navigation_community: "Comunidade"
   navigation_about: "Sobre"
   navigation_hiring: "Estamos a contratar"
-  community_email_title: "Chia na sua caixa de entrada."
+  community_email_title: "Mosey na sua caixa de entrada."
   community_email_description: |
-    Subscreva a nossa mailing list para receber as últimas notícias de Chia entregues na sua caixa de entrada.
+    Subscreva a nossa mailing list para receber as últimas notícias de Mosey entregues na sua caixa de entrada.
   community_signup: "inscrever-se"
   community_expand_details: "Expandir para ver detalhes completos"
   community_collapse_details: "Recolher detalhes completos"
@@ -475,19 +475,19 @@ tr: # Turkish
   homepage_section_1_heading: "kullanışlı"
   homepage_section_1_title: "Paran, nasıl ve nerede istersen"
   homepage_section_1_description: |
-    Chia'nın hedeflenen işlevselliği bir banka hesabıyla yapabileceğiniz her şeyi yapar - ancak daha iyisi ve bankası olmadan. İşlemler kolay, güvenli ve akıllıdır.
+    Mosey'nın hedeflenen işlevselliği bir banka hesabıyla yapabileceğiniz her şeyi yapar - ancak daha iyisi ve bankası olmadan. İşlemler kolay, güvenli ve akıllıdır.
   homepage_section_2_heading: "sürdürülebilir"
   homepage_section_2_title: "Dijital para boşuna olmak zorunda değil"
   homepage_section_2_description: |
-    Geleneksel şifreleme para birimi madenciliği yavaş, israflıdır ve merkezidir. Chia'nın metodu enerji açısından verimli ve geniş bir alana dağılmış durumda çünkü dijital paranın bile yeşil olması gerekiyor.
+    Geleneksel şifreleme para birimi madenciliği yavaş, israflıdır ve merkezidir. Mosey'nın metodu enerji açısından verimli ve geniş bir alana dağılmış durumda çünkü dijital paranın bile yeşil olması gerekiyor.
   homepage_section_3_heading: "ulaşılabilir"
   homepage_section_3_title: "Hem profesyonel hem de kişisel ihtiyaçlarınız için uyumlu para birimi"
   homepage_section_3_description: |
     Artık çokuluslu şirketler bile yeni finansal dünyamıza oynaklık veya kırılganlık korkusu olmadan katılabiliyor.
   homepage_blog_title: "En son"
   homepage_blog_signup: "Sign up for announcements"
-  homepage_community_title: "Chia Topluluğu"
-  homepage_about_title: "Chia hakkında"
+  homepage_community_title: "Mosey Topluluğu"
+  homepage_about_title: "Mosey hakkında"
   homepage_about_description: |
     Lorem ipsum dolor amet sitet, adipiscing elit elit, sed do eiusmod tempor inci labunt ve dolore magna aliqua incididunt. Ut enim ad minim veniam, qui nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo sonucu.
   homepage_investors: "Yatırımcılarımız"
@@ -495,33 +495,33 @@ tr: # Turkish
   homepage_hiring_description: |
     Lorem ipsum dolor amet sitet, adipiscing elit elit, sed do eiusmod tempor inci labunt ve dolore magna aliqua incididunt.
   homepage_hiring_apply: "Şimdi Uygula"
-  about_title: "Chia hakkında"
+  about_title: "Mosey hakkında"
   about_description: |
-    Chia, yeni bir dijital para çağı için kullanışlı, sürdürülebilir ve erişilebilir bir para birimidir. Hem kişisel hem de profesyonel ihtiyaçlarınız için daha uyumlu hale getiren, geleneksel kripto para birimlerinden daha güvenli, daha coğrafi olarak dağılmış ve daha az atık içeren bir blok zinciri ağı tasarladık. Chia, 2017 yılında San Francisco'da BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford Üniversitesi ve Columbia Üniversitesi'nden gelen dijital para, şifreleme ve finans sektörlerinden oluşan bir ekip tarafından kuruldu.
+    Mosey, yeni bir dijital para çağı için kullanışlı, sürdürülebilir ve erişilebilir bir para birimidir. Hem kişisel hem de profesyonel ihtiyaçlarınız için daha uyumlu hale getiren, geleneksel kripto para birimlerinden daha güvenli, daha coğrafi olarak dağılmış ve daha az atık içeren bir blok zinciri ağı tasarladık. Mosey, 2017 yılında San Francisco'da BitTorrent, Tradehill, Changetip, Lightning Labs, Stanford Üniversitesi ve Columbia Üniversitesi'nden gelen dijital para, şifreleme ve finans sektörlerinden oluşan bir ekip tarafından kuruldu.
   about_leadership_title: "Liderlik takımı"
   about_advisors_title: "Advisors"
   about_invest_investors_title: "Our Investors"
   about_careers_title: "Kariyer"
   about_careers_description: |
-    Protokolümüzü oluşturmak için her zaman yetenekli programcıları arıyoruz. İlgileniyorsanız, lütfen önce birkaç LeetCode Yarışması tamamlayın. Ardından LeetCode profil bağlantınızı ve özgeçmişinizi [jobs@chia.net] adresine (mailto: jobs@chia.net) gönderin.
+    Protokolümüzü oluşturmak için her zaman yetenekli programcıları arıyoruz. İlgileniyorsanız, lütfen önce birkaç LeetCode Yarışması tamamlayın. Ardından LeetCode profil bağlantınızı ve özgeçmişinizi [jobs@Mosey.net] adresine (mailto: jobs@Mosey.net) gönderin.
   about_press_title: "Basın"
   about_press_description: |
-    Basın soruları için lütfen [hello@chia.net](mailto:hello@chia.net).
+    Basın soruları için lütfen [hello@Mosey.net](mailto:hello@Mosey.net).
   footer_language: "Dil"
   footer_contact: "Temas"
   footer_find_us: "Bizi bul"
 #  footer_disclaimer: |
 #    Bu depoya katkıda bulunarak, katkı / debian / telif hakkı ile veya dosyanın üstünde belirtilmediği sürece çalışmanızı MIT lisansı altında lisanslamayı kabul edersiniz. Asıl yazar olmadığınız durumlarda yapılan herhangi bir çalışma, lisans başlığını orijinal yazar (lar) ve kaynakla birlikte içermelidir.
-  footer_copyright_year: "© Chia Network 2019"
+  footer_copyright_year: "© Mosey Network 2019"
   navigation_faq: "SSS"
   navigation_news: "Haber"
   navigation_blog: "Blog"
   navigation_community: "Topluluk"
   navigation_about: "hakkında"
   navigation_hiring: "Kiralıyoruz"
-  community_email_title: "Chia gelen kutunuzda."
+  community_email_title: "Mosey gelen kutunuzda."
   community_email_description: |
-    Gelen kutunuza gönderilen en son Chia haberlerini almak için posta listemize abone olun.
+    Gelen kutunuza gönderilen en son Mosey haberlerini almak için posta listemize abone olun.
   community_signup: "kaydol"
   community_expand_details: "Tüm ayrıntıları görmek için genişletin"
   community_collapse_details: "Tüm ayrıntıları daralt"
