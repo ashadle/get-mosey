@@ -5,19 +5,20 @@ layout: default
 {% assign strings = site.data.strings[page.lang] %}
 
 <div class="homepage">
-    <!-- TODO: we only have two of the four videos, need the other two for ACCESSIBLE and ABOUT sections --> 
+    <!-- TODO: we only have two of the four videos, need the other two for ACCESSIBLE and ABOUT sections -->
     <div class="header-container">
         <div class="header-background"></div>
         <script type="text/javascript">
             // cachebuster is used to mitigate Chrome bug where playing videos from browser cache sometimes gets corrupted videos
             var videoDiv = document.currentScript.previousElementSibling;
             videoDiv.innerHTML =
-                '<video class="background-dots" tabindex="-1" preload="auto" autoplay loop muted>' + // NOTE: muted attribute is necessary to allow autoplay in Chrome
-                    '<source src="/img/background.mp4?__cachebuster__=' + Date.now() + '" type="video/mp4" poster="/img/background.jpg">' +
-                    '<img src="/img/background.jpg" alt="Background Image">' +
-                '</video>';
+              //'<video class="background-dots" tabindex="-1" preload="auto" autoplay loop muted>' + // NOTE: muted attribute is necessary to allow autoplay in Chrome
+                    //'<source src="/img/background.mp4?__cachebuster__=' + Date.now() + '" type="video/mp4" poster="/img/background.jpg">' +
+                    //'<img src="/img/background.jpg" alt="Background Image">' +
+                //'</video>';
+                <img src="/img/mosey-background.jpg" alt="Background Image">
         </script>
-        
+
         {% include navigation.html %}
         <div class="header">
             <h1>{{ strings.homepage_title }}</h1>
@@ -79,7 +80,7 @@ layout: default
             </div>
 
             <div class="row">
-                {% assign posts = site.posts | where:"lang",page.lang | reversed %} 
+                {% assign posts = site.posts | where:"lang",page.lang | reversed %}
                 {% for entry in posts limit:6 %}
                     <a href="{{ entry.url }}" class="col-md-4 post d-block p-3">
                         <p>{{ entry.date | date:"%B %-d, %Y" }}</p>
@@ -98,7 +99,7 @@ layout: default
                 </div>
             </div>
             <div class="row">
-                {% assign community_posts = site.community | where:"lang",page.lang | sort:"order" %} 
+                {% assign community_posts = site.community | where:"lang",page.lang | sort:"order" %}
                 {% for entry in community_posts %}
                     <div class="col-md-6 community-post">
                         <h3>{{ entry.title }}</h3>
