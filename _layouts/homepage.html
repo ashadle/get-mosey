@@ -7,17 +7,19 @@ layout: default
 <div class="homepage">
     <!-- TODO: we only have two of the four videos, need the other two for ACCESSIBLE and ABOUT sections -->
     <div class="header-container">
-        <div class="header-background"></div>
-        <script type="text/javascript">
+        <div class="header-background">
+            <img src="/img/mosey-background.jpg" alt="Background Image">
+        </div>
+        // <script type="text/javascript">
             // cachebuster is used to mitigate Chrome bug where playing videos from browser cache sometimes gets corrupted videos
-            var videoDiv = document.currentScript.previousElementSibling;
-            videoDiv.innerHTML =
+          //  var videoDiv = document.currentScript.previousElementSibling;
+          //  videoDiv.innerHTML =
               //'<video class="background-dots" tabindex="-1" preload="auto" autoplay loop muted>' + // NOTE: muted attribute is necessary to allow autoplay in Chrome
                     //'<source src="/img/background.mp4?__cachebuster__=' + Date.now() + '" type="video/mp4" poster="/img/background.jpg">' +
                     //'<img src="/img/background.jpg" alt="Background Image">' +
                 //'</video>';
-                <img src="/img/mosey-background.jpg" alt="Background Image">
-        </script>
+                // <img src="/img/background.jpg" alt="Background Image">
+        //</script>
 
         {% include navigation.html %}
         <div class="header">
