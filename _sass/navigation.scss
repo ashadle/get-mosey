@@ -11,7 +11,7 @@
         position: relative;
 
         .nav-link {
-            color: #0C282A;
+            color: #fff;
             font-weight: 600;
             line-height: 31px;
             font-size: 16px;
@@ -20,7 +20,7 @@
     }
 
     .nav-item.active {
-        .nav-link { color: #3AAC59; }
+        .nav-link { color: #fff; }
 
         .highlight {
             display: inline-block;
@@ -45,8 +45,8 @@
         margin-right: 2rem;
         display: inline-block;
         padding: 1rem 4rem 1rem 3rem;
-        border: 2px solid #0C282A;
-        color: #0C282A;
+        border: 2px solid #fff;
+        color: #fff;
         font-size: 18px;
         font-weight: 600;
         text-align: center;
@@ -85,7 +85,7 @@
         .hiring-button {
             margin: 2rem;
             display: inline-block;
-            background: #0C282A;
+            background: #fff;
         }
     }
 }
