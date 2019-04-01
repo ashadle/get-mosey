@@ -40,13 +40,14 @@
         background-color: #0C282A;
         height: 736px;
         position: relative;
+        overflow: hidden;
 
         .header-background {
             z-index: -1;
             position: absolute;
             top: 0;
             right: 0;
-            overflow: hidden;
+
 
             .background-dots {
                 width: 100%;
