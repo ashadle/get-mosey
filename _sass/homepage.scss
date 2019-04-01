@@ -7,7 +7,7 @@
 
     .action-arrow-button {
         cursor: pointer;
-        color: #0C282A;
+        color: #ffffff;
         transition: color 0.2s;
         font-weight: 600;
         font-size: 14px;
@@ -17,7 +17,7 @@
 
         &:hover {
             text-decoration: none;
-            color: #469d62;
+            color: #ffffff;
         }
 
         img {
@@ -30,14 +30,14 @@
         background: transparent;
 
         .navbar-toggler, .hiring-button {
-            border-color: #0C282A;
-            color: #0C282A;
+            border-color: #ffffff;
+            color: #ffffff;
         }
     }
 
     .header-container {
         z-index: 0;
-        background-color: #0C282A;
+        background-color: #ffffff;
         height: 736px;
         position: relative;
         overflow: hidden;
